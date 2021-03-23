@@ -47,4 +47,4 @@ Explanation: The optimal substring here is "abba". Other non-optimal substrings 
 ### Result
 
 _Runtime:_ **80 ms**, faster than **100.00%** of JavaScript online submissions for Largest Substring Between Two Equal Characters.
-_Memory Usage:_ **39.1 MB,**, less than **100.00%** of JavaScript online submissions for Largest Substring Between Two Equal Characters.
+_Memory Usage:_ **39.1 MB**, less than **100.00%** of JavaScript online submissions for Largest Substring Between Two Equal Characters.
