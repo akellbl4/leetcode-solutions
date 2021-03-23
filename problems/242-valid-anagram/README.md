@@ -27,5 +27,5 @@ Output: false
 
 ### Result
 
-**Runtime:** 84 ms, faster than *95.76%* of JavaScript online submissions for Valid Anagram.
+**Runtime:** *84 ms,* faster than *95.76%* of JavaScript online submissions for Valid Anagram.  
 **Memory Usage:** *39.4 MB*, less than *99.08%* of JavaScript online submissions for Valid Anagram.
