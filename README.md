@@ -1,4 +1,4 @@
-# Leetcode Solutions in pure JavaScript
+# Leetcode Solutions
 
 **TODO:**
 - autogenerate template for solution
