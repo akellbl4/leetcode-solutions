@@ -1,3 +1,11 @@
+---
+title: Valid Anagram
+runtime: 84ms
+faster: 95.76%
+memory: 39.4MB
+less: 99.08%
+---
+
 # 242. Valid Anagram
 
 [Link to original](https://leetcode.com/problems/valid-anagram/)
@@ -25,7 +33,3 @@ Output: false
 
 **Follow up:** What if the inputs contain Unicode characters? How would you adapt your solution to such a case?
 
-### Result
-
-_Runtime:_ **84 ms,** faster than **95.76%** of JavaScript online submissions for Valid Anagram.  
-_Memory Usage:_ **39.4 MB**, less than **99.08%** of JavaScript online submissions for Valid Anagram.
