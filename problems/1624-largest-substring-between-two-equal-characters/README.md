@@ -1,6 +1,11 @@
-# 1624. Largest Substring Between Two Equal Characters
-
-[Link to original](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)
+---
+title: 1624. Largest Substring Between Two Equal Characters
+runtime: 80ms
+faster: 100%
+memory: 39.1MB
+less: 100%
+original: https://leetcode.com/problems/largest-substring-between-two-equal-characters/
+---
 
 Given a string `s`, return the length of the longest substring between two equal characters, excluding the two characters. If there is no such substring return `-1`.
 
@@ -44,7 +49,3 @@ Explanation: The optimal substring here is "abba". Other non-optimal substrings 
 - `1 <= s.length <= 300`
 - `s` contains only lowercase English letters.
 
-### Result
-
-_Runtime:_ **80 ms**, faster than **100.00%** of JavaScript online submissions for Largest Substring Between Two Equal Characters.  
-_Memory Usage:_ **39.1 MB**, less than **100.00%** of JavaScript online submissions for Largest Substring Between Two Equal Characters.

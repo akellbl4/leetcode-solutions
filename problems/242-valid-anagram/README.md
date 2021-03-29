@@ -1,16 +1,13 @@
 ---
-title: Valid Anagram
+title: 242. Valid Anagram
 runtime: 84ms
 faster: 95.76%
 memory: 39.4MB
 less: 99.08%
+original: https://leetcode.com/problems/valid-anagram/
 ---
 
-# 242. Valid Anagram
-
-[Link to original](https://leetcode.com/problems/valid-anagram/)
-
-Given two strings s and t, return true if t is an anagram of s, and false otherwise.
+Given two strings `s` and `t`, return `true` if `t` is an anagram of `s`, and false otherwise.
 
 **Example 1:**
 
